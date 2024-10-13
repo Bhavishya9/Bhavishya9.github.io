@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Methyl 2-(4-(2-chloroethyl)phenyl)-2-mathylpropanoate",
+     "id": "1181267-33-3",
+     "related_name": "Bilastine" 
+  },
+  {
+    "name": "1-(2-ethoxyethyl)-2-(piperisin-4-yl)-1H-benzo[d]imidazole hydrochloride", 
+    "id": "1841081-72-8",
+    "related_name": "Bilastine" 
+  },
+  {
+    "name": "4,6-dichloro-2-proopylthiiopyrimidinee-5-amine", 
+    "id": "145783-15-9",
+    "related_name": "Ticagrelor" 
+  },
+  {
+    "name": "(1R,2S)-REL-,(1R trans)-2-(3,4-difluorophenyl) cyclopropane amine", 
+    "id": "1156491-10-9",
+    "related_name": "Ticagrelor" 
+  },
+  {
+    "name": "6-Fluoro-3-(4-piperidinyl)-1,2-benzisoxazole hydrochloride",
+     "id": "84163-13-3",
+     "related_name" : "Risperidone"
+  },
+  {
+    "name": "3-(2-chloroethyl)-6,7,8,9-tetrahydro-2-methyl-4H-pyrido-(1,2-a) pyrimidine-4-one hydrochloride",
+     "id": "93076-03-0",
+     "related_name" : "Risperidone"
+  },
+  {
+    "name": "2-Phenylethyl Isocyanate",
+     "id": "1943-82-4",
+     "related_name": "Glimipride"
+  },
+  {
+    "name": "p-Toluenesulfonylmethyl Isocyanide (TOSMIC)",
+     "id": "36635-61-7",
+     "related_name": "Bempedoic Acid"
+  },
+  {
+    "name" : "Ethyl 2-aminothiazole-5-carboxylate",
+    "id" : "32955-21-8",
+    "related_name": "Dasainib"
+  },
+  {
+    "name" : "N-Ethyl-N-methyl Carbamoyl Chloride",
+    "id" : "42252-34-6",
+    "related_name": "Rivastigmine"
+  },
+  {
+    "name" : "3,5-Dimethyl-4-nitropyridine-n-oxide (Ome Nitro)",
+    "id" : "14248-669",
+    "related_name": "Omeprazole"
+  },
+  {
+    "name" : "2,3-Dimethyl-4-nitropyridine-n-oxide (Lanso Nitro)",
+    "id" : "37699-43-7",
+    "related_name": "Lansoprazole"
+  },
+  {
+    "name" : "Omeprazole",
+    "id" : "73590-58-6",
+    "related_name": "Omeprazole"
+  },
+  {
+    "name" : "Rabeprazole",
+    "id" : "1179766-89-3",
+    "related_name": "Rabeprazole"
+  }
+
+]

@@ -1,0 +1,61 @@
+/* components/Table.module.css */
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 18px;
+  text-align: center; /* Center all text horizontally */
+}
+
+.table th {
+  padding: 12px 15px;
+  border: 1px solid #ddd;
+  text-align: center;/* Center content horizontally */
+  vertical-align: middle; /* Center content vertically */
+}
+
+.table td {
+  padding: 12px 15px;
+  border: 1px solid #ddd;
+  text-align: center;/* Center content horizontally */
+  vertical-align: middle; /* Center content vertically */
+}
+
+.table thead th {
+  background-color: #adbffa;
+  color: #333;
+  font-weight: bold;
+  text-align: center; /*Ensure headers are centered horizontally */
+  vertical-align: middle; /* Ensure headers are centered vertically */
+}
+
+/* .table tbody tr:nth-child(even) {
+  background-color: #d1dbfa;
+} */
+
+/* .table tbody tr:hover {
+  background-color: #f1f1f1;
+  cursor: pointer;
+} */
+
+/* Flexbox for aligning search label and input on the same line */
+.searchContainer {
+  display: flex;
+  align-items: center; /* Vertically center the label and input */
+  justify-content: right; /* Horizontally center the whole search container */
+  margin-bottom: 10px;
+}
+
+.searchLabel {
+  margin-right: 10px; /* Space between label and input */
+  font-size: 16px;
+}
+
+.searchInput {
+  padding: 8px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  width: 300px;
+}

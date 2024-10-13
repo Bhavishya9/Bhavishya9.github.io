@@ -10,10 +10,11 @@ import Pricing from "@/components/Pricing";
 import Testimonials from "@/components/Testimonials";
 import Video from "@/components/Video";
 import { Metadata } from "next";
+import ProductsPage from "./products/page";
 
 export const metadata: Metadata = {
-  title: "Free Next.js Template for Startup and SaaS",
-  description: "This is Home for Startup Nextjs Template",
+  title: "Arvik Pharma Pvt. Ltd",
+  description: "This is Home for Arvik pharma web page",
   // other metadata
 };
 
@@ -23,13 +24,10 @@ export default function Home() {
       <ScrollUp />
       <Hero />
       <Features />
-      <Video />
-      <Brands />
       <AboutSectionOne />
+      {/* <ProductsPage/> */}
       <AboutSectionTwo />
-      <Testimonials />
       <Pricing />
-      <Blog />
       <Contact />
     </>
   );
