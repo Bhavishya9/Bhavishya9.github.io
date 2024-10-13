@@ -5,8 +5,8 @@ const nextConfig = {
   output: "export",  // <=== enables static exports
   images: { unoptimized: true },
   // assetPrefix: '',
-  basePath: '/Users/bhavvishyya/Desktop/Work/Projects/test_proj/startup-nextjs/out',
-  assetPrefix: '/Users/bhavvishyya/Desktop/Work/Projects/test_proj/startup-nextjs/out/',
+  basePath: 'https://Bhavishya9.github.io',
+  assetPrefix: 'https://Bhavishya9.github.io',
   swcMinify: false, // Disable SWC minification
   // terserMinify: false, // Disable Terser minification (if applicable for older versions)
   webpack: (config, { dev }) => {
