@@ -227,7 +227,7 @@ const AboutSectionOne = () => {
           </div>
           <div className="-mz-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
-              <SectionTitle title="Exports" paragraph="We currently support the export of Electronic chemicals to the following countries, with plans to expand to more regions in the near future." mb="44px" />
+              <SectionTitle title="Exports" paragraph="We currently support the export of electronic chemicals to the following countries, with plans to expand to more regions in the near future." mb="44px" />
               <div 
                 className="mb-12 max-w-[570px] lg:mb-0"
                 data-wow-delay=".15s"

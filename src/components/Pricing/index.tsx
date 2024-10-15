@@ -25,7 +25,7 @@ const Pricing = () => {
             subtitle="Director"
           >
             <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-            He holds an M.Sc. degree from Venkateshwara University and brings 35 years of experience in banking and the pharmaceutical industry. He spent 10 years in banking and 25 years in the bulk drug industry, including roles at Standard Organics Ltd. and as a Director at SS Organics Ltd. He also served as the Director in charge of Coral Drugs, specializing in the manufacture of drug pellets and granules. Currently, he is the Managing Director of Ogene Systems (I) Ltd. With extensive expertise in both national and international bulk drug marketing, he has a proven track record of success.
+            He holds an M.Sc. from Venkateshwara University and brings 35 years of experience across banking and the pharmaceutical industry. Initially spending 10 years in banking, he transitioned to the bulk drug sector for 25 years, taking key roles at Standard Organics Ltd. and SS Organics Ltd. He also led as the Director in charge at Coral Drugs, focusing on drug pellets and granules manufacturing. Currently, as the Managing Director of Ogene Systems (I) Ltd., his extensive expertise in both national and international bulk drug marketing showcases a proven track record of success.
             </p>
           </PricingBox>
           <PricingBox
@@ -35,7 +35,7 @@ const Pricing = () => {
             subtitle="Director"
           >
             <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-            He holds an M.Sc. degree from Venkateshwara University and brings 35 years of experience in banking and the pharmaceutical industry. He spent 10 years in banking and 25 years in the bulk drug industry, including roles at Standard Organics Ltd. and as a Director at SS Organics Ltd. He also served as the Director in charge of Coral Drugs, specializing in the manufacture of drug pellets and granules. Currently, he is the Managing Director of Ogene Systems (I) Ltd. With extensive expertise in both national and international bulk drug marketing, he has a proven track record of success.
+            He is a distinguished professional with an MIRPM from Nagpur University and over 20 years in the bulk drug industry. His career began at Ogene Systems India Limited, where he excelled as Plant In-Charge, overseeing purchasing and sales in domestic and international markets. His expertise spans purchasing, marketing, administration, and manufacturing, with significant experience in trade marketing. Throughout his career, he has also gained substantial experience in trade marketing, further solidifying his reputation as a versatile and knowledgeable leader in the pharmaceutical sector.
             </p>
           </PricingBox>
         </div>

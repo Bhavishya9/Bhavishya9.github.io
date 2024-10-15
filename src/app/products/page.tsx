@@ -51,9 +51,12 @@ const ProductsPage = () => {
   return (
     <>
       <Breadcrumb
-        pageName="Products"
-        description="Arvik Pharma has the scientific strength, knowledge, expertise and infrastructure to manufacture any kind of Intermediates. It has a Manufacturing Facility with over  14 Reactors and supporting utility facilities at APIIC-APSEZ, Atchuthapuram, Visakhapatam , Andhra Pradesh."
+        pageName="Intermediates"
+        description=""
       />
+      <div className="container text-base font-medium leading-relaxed text-body-color">
+        <p>Active Pharmaceutical Ingredients (APIs) are the critical components of any drug, responsible for its therapeutic effects, while intermediates are chemical compounds that serve as the building blocks for APIs. Arvik Pharma excels in manufacturing both due to their advanced technology and strict adherence to quality standards. Their state-of-the-art facilities comply with international regulations, ensuring the production of high-quality APIs and intermediates. The team’s expertise in chemical synthesis boosts efficiency and cost-effectiveness in production processes. Their commitment to continuous research and development allows them to innovate and meet changing market demands, maintaining their industry leadership. With a strong reputation for reliability and compliance, they are a trusted partner in the global pharmaceutical industry.</p>
+      </div>
       <section id="offering" className="pt-16 md:pt-20 lg:pt-28">
         <div className="container">
           <div>

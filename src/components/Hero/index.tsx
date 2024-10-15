@@ -15,7 +15,10 @@ const Hero = () => {
                   Arvik Pharma Private Limited
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                We manufacture high-value intermediates and electronic chemicals, all exported based on in-house developed technology. Arvik is currently the only company in the country producing electronic-grade chemicals. Our innovative approach and state-of-the-art facilities ensure our products meet the highest international standards, making us a trusted partner globally. As industry pioneers, we are committed to driving progress in chemical manufacturing both domestically and internationally
+                Arvik stands at the forefront of the pharmaceutical industry, renowned for our trailblazing manufacturing of high-value intermediates and specialized electronic chemicals. Our products are crafted exclusively from proprietary technologies developed in-house, setting new benchmarks in quality and innovation. As the sole producer of electronic-grade chemicals within the country, we take pride in our unique position in the market. Our state-of-the-art facilities are designed to meet rigorous international standards, ensuring that each product not only meets but exceeds global expectations.
+                </p>
+                <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
+                Our commitment extends beyond manufacturing excellence. At Arvik, we are dedicated to driving progress in the chemical sector both at home and around the world. By constantly advancing our technologies and processes, we strive to offer our global partners unparalleled reliability and quality. Our vision is clear: to lead the way in developing cutting-edge solutions that pave the future of pharmaceutical manufacturing. As pioneers in the industry, we are not just part of the chemical manufacturing landscape—we are shaping it, one innovation at a time.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                 </div>
