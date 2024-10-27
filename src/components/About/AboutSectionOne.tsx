@@ -187,25 +187,6 @@ const AboutSectionOne = () => {
                 paragraph="We have the scientific strength, knowledge, expertise and infrastructure to manufacture any kind of intermediates. Our manufacturing facility with over 14 Reactors and supporting utility facilities at APIIC-APSEZ, Atchuthapuram, Visakhapatam , Andhra Pradesh"
                 mb="44px"
               />
-
-              <div
-                className="mb-12 max-w-[570px] lg:mb-0"
-                data-wow-delay=".15s"
-              >
-                <div className="mx-[-12px] flex flex-wrap">
-                  <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="3,4-Dimethoxy Thiophene (DMOT)" />
-                    <List text="3,4-Ethylenedioxy Thiophene (EDOT)" />
-                    <List text="2-Butyl-3,4-Ethylenedioxy Thiophene (Butyl-EDOT)" />
-                  </div>
-
-                  <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="2-Ethyl-3,4-Ethylenedioxy Thiophene (Et-EDOT)" />
-                    <List text="Hydroxymethyl EDOT (HMEDOT)" />
-                    <a href="products"><List text="...More" icon={plusIcon} bold={true}/></a>
-                  </div>
-                </div>
-              </div>
             </div>
 
             <div className="w-full px-4 lg:w-1/2">
