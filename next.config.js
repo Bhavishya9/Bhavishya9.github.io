@@ -1,13 +1,9 @@
 /** @type {import('next').NextConfig} */
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
-const isProd = process.env.NODE_ENV === 'production';
-
 const nextConfig = {
   output: "export",  // <=== enables static exports
   images: { unoptimized: true },
-  basePath: isProd ? "/arvik_ui" : "",
-  assetPrefix: isProd ? "/arvik_ui" : "",
   swcMinify: false, // Disable SWC minification
   // terserMinify: false, // Disable Terser minification (if applicable for older versions)
   webpack: (config, { dev }) => {
